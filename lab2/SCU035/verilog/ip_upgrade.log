@@ -1,0 +1,79 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (lin64) Build 6511674 Tue Jun 16 11:01:26 MDT 2026
+| Date         : Tue Jul 21 21:08:32 2026
+| Host         : amd-VirtualBox running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xcsu35p-sbvb625-2-e
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'char_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of char_fifo (xilinx.com:ip:fifo_generator:13.2) from (Rev. 14) to (Rev. 15)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (lin64) Build 6299465 Fri Nov 14 12:34:56 MST 2025
+| Date         : Thu Jan  8 13:24:04 2026
+| Host         : amd-VirtualBox running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xcsu35p-sbvb625-2-e
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'char_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the update of char_fifo (xilinx.com:ip:fifo_generator:13.2 (Rev. 14)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.1 (lin64) Build 6140274 Wed May 21 22:58:25 MDT 2025
+| Date         : Thu Jul 10 17:33:29 2025
+| Host         : CustEd-VM running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xcsu35p-sbvb625-2-e
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'char_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the update of char_fifo (xilinx.com:ip:fifo_generator:13.2 (Rev. 13)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.1 (lin64) Build 6140274 Wed May 21 22:58:25 MDT 2025
+| Date         : Thu Jul 10 17:24:30 2025
+| Host         : CustEd-VM running 64-bit Ubuntu 22.04.5 LTS
+| Command      : upgrade_ip
+| Device       : xcku040-ffva1156-2-e
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'char_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of char_fifo (xilinx.com:ip:fifo_generator:13.2) from (Rev. 11) to (Rev. 13)
+

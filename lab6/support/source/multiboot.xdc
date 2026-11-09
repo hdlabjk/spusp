@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports {led0_tri_o[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led1_tri_o[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led2_tri_o[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led3_tri_o[0]}]
+set_property PACKAGE_PIN W22 [get_ports {led0_tri_o[0]}]
+set_property PACKAGE_PIN V18 [get_ports {led1_tri_o[0]}]
+set_property PACKAGE_PIN W20 [get_ports {led2_tri_o[0]}]
+set_property PACKAGE_PIN V20 [get_ports {led3_tri_o[0]}]

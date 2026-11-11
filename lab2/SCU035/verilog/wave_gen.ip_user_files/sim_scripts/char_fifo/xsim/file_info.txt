@@ -1,2 +1,0 @@
-char_fifo.v,verilog,xil_defaultlib,../../../../wave_gen.gen/sources_1/ip/char_fifo/sim/char_fifo.v,incdir="../../../../../../../../../../../opt/amd/2026.1/data/rsb/busdef"
-glbl.v,Verilog,xil_defaultlib,glbl.v
